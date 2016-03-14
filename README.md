@@ -17,3 +17,7 @@ To get the file back to normal.
 # How to compile
 It doesn't use anything out of the ordinary, should compile on Windows no problem. 
 Compiling on Mac/Linux though? Never tried; someone try it and let me know!
+
+# Credits
+The FloW for the __sce_menuinfo file structure
+KanadeEngel for some __sce_menuinfo files to test on
